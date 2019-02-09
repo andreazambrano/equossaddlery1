@@ -111,13 +111,7 @@ var tribe_js_config = {
 };
 /* ]]> */
 /* <![CDATA[ */
-var tribeEventsSingleMap = {
-	"addresses": [{
-		"address": "3867 Robinson Road Greenwich NY United States ",
-		"title": "Historic Oaklawn Plantation"
-	}],
-	"zoom": "8"
-};
+
 /* ]]> */
 /* <![CDATA[ */
 var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes"};
